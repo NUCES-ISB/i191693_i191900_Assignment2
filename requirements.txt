@@ -1,0 +1,6 @@
+Flask
+pandas
+pandas-datareader
+scikit-learn
+yfinance
+dash 
